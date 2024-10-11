@@ -233,6 +233,13 @@ h1,h2,h3,h4,h5,h6{
 @media screen and (max-width:560px) {
   .submit { align-items:center;margin-left: 0%!important;margin-bottom: 20px;}
 }
+@media screen and (max-width:560px) {
+.img-width{
+  width:400px!important;
+  height:765px;
+  margin-left: 0%;
+  align-items: center;
+}}
 .hero2 .circle-shape{
   padding: 25px;
   background-image: linear-gradient(to right,#F9EFEF,#F8EDED,#ECE5EB);
